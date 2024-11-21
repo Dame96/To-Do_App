@@ -1,6 +1,6 @@
 Hello! Welcome to my repository! This is where I will be sharing my code for the projects and other assignments! 
 
-The PREMIER PROJECT in this repository is the TO-DO APPLICATION: 
+The PREMIER PROJECT in this repository is the TO-DO APPLICATION: (to-do.py finished)
 
 HOW TO USE IT: 
 
